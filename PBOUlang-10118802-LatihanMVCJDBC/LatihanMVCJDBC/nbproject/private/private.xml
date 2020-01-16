@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/main/LatihanCRUDMVCDAO.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/error/PelangganException.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/model/TabelPelangganModel.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/entity/Pelanggan.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/event/PelangganListener.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/impl/PelangganDaoImpl.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/view/PelangganView.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/model/PelangganModel.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/controller/PelangganController.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/view/MainViewPelanggan.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/database/KingBarbershopDatabase.java</file>
+            <file>file:/D:/Tugas/PBO/LatihanMVCJDBC/LatihanMVCJDBC/src/iantreza/latihanmvcjdbc/service/PelangganDao.java</file>
+        </group>
+    </open-files>
+</project-private>
